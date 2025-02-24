@@ -26,7 +26,7 @@ METHOD=""
 NSAPP="debian12vm"
 var_os="debian"
 var_version="12"
-DISK_SIZE="8G"
+DISK_SIZE="80G"
 
 YW=$(echo "\033[33m")
 BL=$(echo "\033[36m")
